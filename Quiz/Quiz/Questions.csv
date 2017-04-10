@@ -1,0 +1,5 @@
+QuestionID,QuestionText,QuestionType,Answer1,Answer2,Answer3,Answer4,CorrectAnswer
+1,”What is the color of the sky”,MC,Blue,Green,Yellow,Orange,Blue
+2,”What is the state of Water”,MC,Liquid,Solid,Gas,Plasma,Liquid
+3,”What are the colors in the rainbow”,CB,Violet,Indigo,Blue,Aqua,Violet|Indigo|Blue
+4,”The Sun is a star”,TF,True,False,,,True
